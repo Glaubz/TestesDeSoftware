@@ -7,3 +7,4 @@ E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de So
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.dll
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
