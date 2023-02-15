@@ -1,10 +1,10 @@
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\bin\Debug\netcoreapp3.1\Demo.dll
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.dll
 E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.pdb
-E:\_Programmer\OutrosProjetos\CSharp\DesenvolvedorIO - Dominando os Testes de Software\Projeto_MeusTestesDeSoftware\MeusTestesDeSoftware\0.1 - Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
